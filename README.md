@@ -23,4 +23,4 @@ The course will provide practical experience by using
 ## Lectures
 
 + Topic 1 - Direct method
-  - [Notebook](codes/handout_01.ipynb)
+  - [Notebook](codes/Class03.ipynb)
