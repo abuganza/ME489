@@ -6,7 +6,7 @@ The class meets every Monday, Wednesday and Friday 9:30am-10:20am at ME2004 for 
 
 Main textbook for this course is "A First Course in Finite Elements" by J. Fish and T. Belytschko, John Wiley & Sons, 2007, which can be found at https://www.amazon.com/First-Course-Finite-Elements/dp/0470035803
 
-The aim of the course is to introduce both the theory as well as practical aspects of finite element analysis. The goal is to make you intelligent analysts capable of using any commercial finite element software, or, if necessary start to become programmers of their own finite element codes. The “hands-on” lab assignments will focus on practical issues such as modeling techniques, element choice and ways to judge solution accuracy. The lab assignments will also cover questions such as “What could go wrong?” and “How to fix a problem?”. There is also a final project.
+The aim of the course is to introduce both the theory as well as practical aspects of finite element analysis. To be specific, it is to make you intelligent analysts capable of using any commercial finite element software, or, if necessary start to become programmers of their own finite element codes. The “hands-on” lab assignments will focus on practical issues such as modeling techniques, element choice and ways to judge solution accuracy. The lab assignments will also cover questions such as “What could go wrong?” and “How to fix a problem?”. There is also a final project. The specific course goal is
 
 + Understand the basic theory behind the finite element method.
 + Learn the basic use of the method through programming in Python or MATLAB and by using a powerful commercial finite element analysis (FEA) software, ABAQUS
@@ -19,3 +19,8 @@ The aim of the course is to introduce both the theory as well as practical aspec
 The course will provide practical experience by using
 + The commercial finite element analysis (FEA) software, ABAQUS.
 + Finite element method in Python.
+
+## Lectures
+
++ Topic 1 - Direct method
+  - [Notebook](codes/handout_01.ipynb)
