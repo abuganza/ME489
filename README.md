@@ -24,3 +24,18 @@ The course will provide practical experience by using
 
 + Topic 1 - Direct method
   - [Notebook](codes/Class03.ipynb)
+
++ Topic 2 - Finite elements in 1D
+  - [Notebook](codes/Class03.ipynb)
+
++ Topic 3 - Gauss quadrature
+  - [Notebook](codes/Class03.ipynb)
+  
++ Topic 4 - Finite element solution in 1D
+  - [Notebook](codes/Class03.ipynb) 
+  
++ Topic 5 - Finite Element formulation of multidimensional scalar problems
+  - [Notebook](codes/Class03.ipynb)
+
++ Topic 6 - Finite element formulation of planar elasticity
+  - [Notebook](codes/Class03.ipynb)
