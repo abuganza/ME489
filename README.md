@@ -1,15 +1,15 @@
 # ME489 Introduction to Finite Element Analysis
 
-This course is for senior students of Mechanical Engineering at Purdue University during Fall 2019.
+This course is for senior students of Mechanical Engineering at Purdue University during Spring 2024.
 The instructor is Prof. [Adrian Buganza Tepole](https://engineering.purdue.edu/buganzalab/).
-The class meets every Monday, Wednesday and Friday 9:30am-10:20am at ME2004 for lecture and ME3021 for lab.
+The class meets every Monday, Wednesday and Friday 9:30am-10:20am.
 
-Main textbook for this course is "A First Course in Finite Elements" by J. Fish and T. Belytschko, John Wiley & Sons, 2007, which can be found at https://www.amazon.com/First-Course-Finite-Elements/dp/0470035803
+Main textbook for this course is "A First Course in Finite Elements" by J. Fish and T. Belytschko, John Wiley & Sons, 2007, Purdue students have access to the book via Purdue Libraries and otherwise it can be found at https://www.amazon.com/First-Course-Finite-Elements/dp/0470035803 
 
 The aim of the course is to introduce both the theory as well as practical aspects of finite element analysis. To be specific, it is to make you intelligent analysts capable of using any commercial finite element software, or, if necessary start to become programmers of their own finite element codes. The “hands-on” lab assignments will focus on practical issues such as modeling techniques, element choice and ways to judge solution accuracy. The lab assignments will also cover questions such as “What could go wrong?” and “How to fix a problem?”. There is also a final project. The specific course goal is
 
 + Understand the basic theory behind the finite element method.
-+ Learn the basic use of the method through programming in Python or MATLAB and by using a powerful commercial finite element analysis (FEA) software, ABAQUS
++ Learn the basic use of the method through programming in Python and by using a powerful commercial finite element analysis (FEA) software, ABAQUS
 + Learn to solve heat conduction and elasticity problems
 + Learn FEM problem set-up and problem solving through hands-on lab assignments
 + Learn through lab assignments “what could go wrong?” and “how to fix them?”
